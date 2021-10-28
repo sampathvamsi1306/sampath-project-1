@@ -1,0 +1,69 @@
+body{
+    font-family: 'Times New Roman';
+    font-size: 24px;
+    color:beige;
+    background-image: url("IMAGES/background3.jpg");
+}
+#logo{
+    float:left3
+    width: 200px; 
+    height:100px;              
+    background: transparent;
+}
+h2{
+    text-align: center;
+    font-size: 36px;
+    color:whitesmoke;
+}
+.first{
+    margin:8px;
+    padding:18px;
+}
+header{
+    clear:both;
+}
+nav{
+    border-width:1px 1px 1px 1px;
+    border-style:solid;
+    border-color:turquoise;
+    padding:2px 20px;
+    margin:15px;
+}
+a{
+    font-size: 33px;
+    color:ghostwhite;
+    padding-right:15px;
+    margin:23px;
+    text-decoration: none;
+}
+#a,#b,#c,#d{
+    border: 2px solid turquoise;
+    border-width: 0px 1px 0px 0px;
+    padding-right: 60px;
+}
+table{
+    border:3px solid tomato;
+    border-width: 1px;
+    margin:15px;
+    padding:5px;
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid tomato;
+    border-width: 1px;
+    margin:15px;
+    padding:5px;
+    text-align: center;
+    font-size: 30px;
+}
+td{
+    border: 1px solid tomato;
+    border-width: 1px;
+    margin:15px;
+    padding:5px;
+    text-align: center;
+}
+td img{
+    width: 200px;
+    height: 100px;
+}

@@ -1,0 +1,58 @@
+body{
+    font-family: 'Times New Roman';
+    font-size: 24px;
+    background-image: url("IMAGES/background5.jpg");
+}
+#logo{
+    float:left;
+    width: 200px; 
+    height:100px;              
+    background: transparent;
+}
+h2{
+    text-align: center;
+    font-size: 36px;
+    color:salmon;
+}
+.first{
+    margin:8px;
+    padding:18px;
+}
+header{
+    clear:both;
+}
+nav{
+    border-width:1px 1px 1px 1px;
+    border-style:solid;
+    border-color: black;
+    padding: 2px 20px;
+    margin:15px;
+}
+nav a{
+    font-size: 33px;
+    color:springgreen;
+    padding-right:15px;
+    margin:23px;
+    text-decoration: none;
+}
+#a,#b,#c,#d{
+    border: 2px solid black;
+    border-width: 0px 1px 0px 0px;
+    padding-right: 60px;
+}
+#e,#f{
+    font-size: 45px;
+    padding:20px;
+}
+span{
+    display: inline;
+    font-size: 45px;
+    padding:5px;
+    margin:15px;
+}
+i::before{
+    padding: 20px;
+}
+span i{
+    color:floralwhite
+}
